@@ -5,10 +5,10 @@
 
 ###Pseudocódigo:
 1. inicio
-2. sueldo
-3. horas
-4. multiplicar sueldo * horas
-5. resultdo 2000
+2. horasTrabajadas
+3. pagoPorHora
+4. multiplicar horasTrabajadas * pagoPorHora
+5. sueldoSemanal 
 6. fin
 
 ##Image
